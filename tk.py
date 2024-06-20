@@ -4,7 +4,6 @@ import openpyxl
 from openpyxl.styles import PatternFill
 from PIL import Image, ImageTk
 from tkinter import Tk, Canvas, Frame, Label, Button, ttk
-from PIL import Image, ImageTk
 
 
 class AnimatedGIF(Label):
