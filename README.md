@@ -2,7 +2,6 @@ Python project to work with Excel file
 This project is a Python tool for working with Excel files that uses tkinter, openpyxl and PIL libraries.
 --------
 Installation:
-To install the required libraries for this project, run the following commands in the terminal:
 pip install tkinter
 pip install openpyxl
 pip install pillow
