@@ -5,7 +5,6 @@ from openpyxl.styles import PatternFill
 from PIL import Image, ImageTk
 from tkinter import Tk, Canvas, Frame, Label, Button, ttk
 from PIL import Image, ImageTk
-for i
 
 
 class AnimatedGIF(Label):
@@ -48,7 +47,7 @@ class StudentManagementGUI:
         self.canvas.pack(fill='both', expand=True)
 
         # Load the background GIF
-        self.background_gif = AnimatedGIF(self.canvas, "bpxxqqvps4h91.gif", speed=100)
+        self.background_gif = AnimatedGIF(self.canvas, "gif/bpxxqqvps4h91.gif", speed=100)
         self.background_gif.pack(fill='both', expand=True)
 
         # Create a frame to hold the menu buttons
@@ -117,7 +116,7 @@ class StudentManagementGUI:
         canvas.pack(fill=tk.BOTH, expand=True)
 
         # Load the background GIF
-        background_gif = AnimatedGIF(canvas, "0k6meqvps4h91.gif", speed=100)
+        background_gif = AnimatedGIF(canvas, "gif/0k6meqvps4h91.gif", speed=100)
         background_gif.pack(fill=tk.BOTH, expand=True)
 
         # Create a frame to hold the widgets
@@ -186,7 +185,7 @@ class StudentManagementGUI:
         canvas.pack(fill=tk.BOTH, expand=True)
 
         # Load the background GIF
-        background_gif = AnimatedGIF(canvas, "lhnvupvps4h91.gif", speed=100)
+        background_gif = AnimatedGIF(canvas, "gif/lhnvupvps4h91.gif", speed=100)
         background_gif.pack(fill=tk.BOTH, expand=True)
 
         # Create a frame to hold the widgets
@@ -253,7 +252,7 @@ class StudentManagementGUI:
         canvas.pack(fill=tk.BOTH, expand=True)
 
         # Load the background GIF
-        background_gif = AnimatedGIF(canvas, "helia-goyer-brb.gif", speed=100)
+        background_gif = AnimatedGIF(canvas, "gif/helia-goyer-brb.gif", speed=100)
         background_gif.pack(fill=tk.BOTH, expand=True)
 
         # Create a frame to hold the widgets
@@ -315,7 +314,7 @@ class StudentManagementGUI:
         canvas.pack(fill=tk.BOTH, expand=True)
 
         # Load the background GIF
-        background_gif = AnimatedGIF(canvas, "tumblr_13d2c753eed929097cc13bbb1d3e482c_fe67f6e7_1920.gif", speed=100)  # Add your GIF path here
+        background_gif = AnimatedGIF(canvas, "gif/tumblr_13d2c753eed929097cc13bbb1d3e482c_fe67f6e7_1920.gif", speed=100)  # Add your GIF path here
         background_gif.pack(fill=tk.BOTH, expand=True)
 
         # Create a frame to hold the widgets
@@ -368,7 +367,7 @@ class StudentManagementGUI:
         canvas.pack(fill=tk.BOTH, expand=True)
 
         # Load the background GIF
-        background_gif = AnimatedGIF(canvas, "final+with+character+in+window.gif", speed=100)  # Add your GIF path here
+        background_gif = AnimatedGIF(canvas, "gif/final+with+character+in+window.gif", speed=100)  # Add your GIF path here
         background_gif.pack(fill=tk.BOTH, expand=True)
 
         # Create a frame to hold the widgets
@@ -420,7 +419,7 @@ class StudentManagementGUI:
         canvas.pack(fill=tk.BOTH, expand=True)
 
         # Load the background GIF
-        background_gif = AnimatedGIF(canvas, "137e45c33cb5939abcd3ff4d8f858c63.gif", speed=100)  # Add your GIF path here
+        background_gif = AnimatedGIF(canvas, "gif/137e45c33cb5939abcd3ff4d8f858c63.gif", speed=100)  # Add your GIF path here
         background_gif.pack(fill=tk.BOTH, expand=True)
 
         # Create a frame to hold the widgets
