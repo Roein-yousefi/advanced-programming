@@ -1,4 +1,3 @@
-Overview
 This repository contains various scripts and resources related to advanced programming topics. The projects included are designed to enhance programming skills through practical examples and applications.
 
 Contents
@@ -26,4 +25,4 @@ Contributing
 Contributions are welcome! Please create a pull request for any improvements or additions.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
