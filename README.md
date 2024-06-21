@@ -30,6 +30,4 @@ This repository contains various scripts and resources related to advanced progr
    python script_name.py
 
 
-
-
    
