@@ -28,6 +28,4 @@ This repository contains various scripts and resources related to advanced progr
   Run individual scripts using Python:
    ```bash
    python script_name.py
-
-
    
