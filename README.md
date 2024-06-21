@@ -18,3 +18,18 @@ This repository contains various scripts and resources related to advanced progr
 1. Clone the repository:
    ```bash
    git clone https://github.com/Roein-yousefi/advanced-programming.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd advanced-programming
+
+## Usage
+
+  Run individual scripts using Python:
+   ```bash
+   python script_name.py
+
+
+
+
+   
